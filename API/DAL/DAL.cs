@@ -55,7 +55,7 @@ namespace API
         /// <summary>
         /// Получить запись о сотруднике
         /// </summary>
-        public static Employee LoadEmployee(int id)
+        public static Employee GetEmployee(int id)
         {
             // название хранимой процедуры
             string sqlExpression = "sp_SelectEmployee";
