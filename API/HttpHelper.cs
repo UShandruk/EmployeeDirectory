@@ -8,7 +8,7 @@ using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Client
+namespace API.Controllers
 {
     /// <summary>
     /// Вспомогательный код из п.1 подсказок к выполнению задания:
